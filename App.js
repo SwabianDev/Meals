@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar'
-import { StyleSheet, Text, View, SafeAreaView } from 'react-native'
+import { SafeAreaView, StyleSheet } from 'react-native'
 import CategoriesScreen from './screens/categoriesScreen'
 
 export default function App() {
